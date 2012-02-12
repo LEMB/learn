@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/tkohayakawa'
+let g:netrw_dirhist_2='/home/tkohayakawa/work/.git'
+let g:netrw_dirhist_3='/home/tkohayakawa/work/hinagiku/app/controllers'
+let g:netrw_dirhist_4='/home/tkohayakawa/work/hinagiku'
+let g:netrw_dirhist_5='/home/tkohayakawa/Dropbox/private/DEV/src/MogileFS-Server-2.43/lib/MogileFS/Store'
+let g:netrw_dirhist_6='/home/tkohayakawa/projects/study'

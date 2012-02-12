@@ -1,0 +1,1170 @@
+# この viminfo ファイルは Vim 7.2 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~MSle0~/;
+
+# 最後の Substitute 検索パターン:
+~MSle0&diff -r
+
+# 最後に置換された文字列:
+$
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q
+:q!
+:Explore
+:w
+:run
+:w /home/tkohayakawa/Dropbox/todo
+:e /home/tkohayakawa/Dropbox/todo 
+:w /home/tkohayakawa/Dropbox/private/DEV/
+:e 17.html
+:w 17.html
+:e 16.html
+:w 16.html
+:e 15.html
+:w 15.html
+:e 14.html
+:w 14.html
+:e 13.html
+:w 13.html
+:we 13.html
+:e 12.html
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+?/;
+?/map
+?/listitem
+?/postgres
+? \<len\>
+?/M
+?/unpack
+?/def unpack
+?/String
+? \<index\>
+? \<template\>
+? \<ord\>
+?/def get_un
+?/decode
+? \<exp_fidid\>
+?/auto
+?/auto in
+? \<undef\>
+?/file
+?/insert
+
+# 式 項目の履歴 (新しいものから古いものへ):
+=acp#onPopupPost()
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+@now
+@match
+@to_s
+@extract_decimal
+@extract_float
+@escape
+@Locking
+@>i
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""0	LINE	0
+	
+"1	LINE	0
+	
+"2	LINE	0
+	
+"3	LINE	0
+	
+"4	LINE	0
+	end
+"5	LINE	0
+	  yield{ 100 }
+"6	LINE	0
+	10.times do |time|
+"7	LINE	0
+	
+"8	LINE	0
+	nnoremap : ;
+"9	LINE	0
+	nnoremap ; :
+"-	CHAR	0
+	u
+
+# ファイルマーク:
+'0  3  0  ~/.gitconfig
+'1  1  0  ~/projects/git/docs/.git/HEAD
+'2  13  0  ~/projects/study
+'3  1  0  ~/projects/study/run.rb
+'4  8  0  ~/projects/study/main.rb
+'5  1  0  ~/projects/study/lib/class2.rb
+'6  1  0  ~/projects/study/lib/class1.rb
+'7  4  0  /media/sf_share/work/todo_201202
+'8  1  0  ~/Dropbox/todo
+'9  1  0  ~/.vimrc
+
+# ジャンプリスト (新しいものが先):
+-'  3  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/projects/git/docs/.git/HEAD
+-'  13  0  ~/projects/study
+-'  1  0  ~/projects/study
+-'  7  0  ~/projects/study/yield.rb
+-'  8  5  ~/projects/study/yield.rb
+-'  1  0  ~/projects/study/yield.rb
+-'  1  0  ~/projects/study/run.rb
+-'  8  0  ~/projects/study/main.rb
+-'  1  0  ~/projects/study/main.rb
+-'  1  0  ~/projects/study/lib/class2.rb
+-'  1  0  ~/projects/study/lib/class1.rb
+-'  4  0  /media/sf_share/work/todo_201202
+-'  1  0  /media/sf_share/work/todo_201202
+-'  1  0  ~/Dropbox/todo
+-'  23  11  /media/sf_share/work/todo_201202
+-'  1  0  ~/.vimrc
+-'  23  0  ~/.zshrc
+-'  1  0  ~/.zshrc
+-'  22  0  ~/.zshrc
+-'  18  45  /media/sf_share/work/todo_201202
+-'  3  0  /media/sf_share/work/todo_201202
+-'  9  0  /media/sf_share/work/todo_201202
+-'  34  39  ~/Dropbox/private/DEV/WORK/photoTODO.txt
+-'  35  28  ~/Dropbox/private/DEV/WORK/photoTODO.txt
+-'  28  41  ~/Dropbox/private/DEV/WORK/photoTODO.txt
+-'  1  0  ~/Dropbox/private/DEV/WORK/photoTODO.txt
+-'  34  17  ~/labo/jquery/main/17.html
+-'  34  23  ~/labo/jquery/main/16.html
+-'  36  10  ~/labo/jquery/main/15.html
+-'  37  8  ~/labo/jquery/main/15.html
+-'  34  20  ~/labo/jquery/main/14.html
+-'  33  25  ~/labo/jquery/main/14.html
+-'  40  6  ~/labo/jquery/main/14.html
+-'  37  8  ~/labo/jquery/main/14.html
+-'  35  21  ~/labo/jquery/main/13.html
+-'  1  0  ~/labo/jquery/main/13.html
+-'  33  18  ~/labo/jquery/main/13.html
+-'  37  11  ~/labo/jquery/main/12.html
+-'  42  11  ~/labo/jquery/main/12.html
+-'  46  8  ~/labo/jquery/main/11.html
+-'  1  0  ~/labo/jquery/main/11.html
+-'  32  33  ~/labo/jquery/main/10.html
+-'  31  13  ~/labo/jquery/main/10.html
+-'  19  12  ~/labo/jquery/main/10.html
+-'  1  0  ~/labo/jquery/main/10.html
+-'  41  12  ~/labo/jquery/main/10.html
+-'  28  21  ~/labo/jquery/main/10.html
+-'  35  22  ~/labo/jquery/main/9.html
+-'  34  2  ~/labo/jquery/main/9.html
+-'  38  21  ~/labo/jquery/main/9.html
+-'  39  12  ~/labo/jquery/main/9.html
+-'  40  10  ~/labo/jquery/main/9.html
+-'  1  0  ~/labo/jquery/main/9.html
+-'  32  38  ~/labo/jquery/main/4.html
+-'  24  22  ~/labo/jquery/main/4.html
+-'  1  0  ~/labo/jquery/main/4.html
+-'  36  0  ~/labo/jquery/main/4.html
+-'  31  33  ~/labo/jquery/main/3.html
+-'  1  0  ~/labo/jquery/main/3.html
+-'  19  19  ~/labo/jquery/main/3.html
+-'  7  1  ~/labo/jquery/main/3.html
+-'  30  44  ~/labo/jquery/main/2.html
+-'  27  20  ~/labo/jquery/main/2.html
+-'  31  7  ~/labo/jquery/main/2.html
+-'  22  6  ~/labo/jquery/main/2.html
+-'  1  0  ~/labo/jquery/main/2.html
+-'  38  17  ~/labo/jquery/main/1.html
+-'  1  0  ~/labo/jquery/main/1.html
+-'  21  6  ~/labo/jquery/main/1.html
+-'  1  0  ~/work/hinagiku/.rvmrc
+-'  1  0  ~/work/hinagiku/Gemfile
+-'  32  0  ~/work/hinagiku/Gemfile
+-'  5  13  ~/labo/rubygems.org/Gemfile
+-'  75  0  ~/labo/rubygems.org/Gemfile
+-'  1  0  ~/labo/rubygems.org/Gemfile
+-'  21  3  ~/labo/rubygems.org/config/database.yml
+-'  1  0  ~/labo/rubygems.org/config/database.yml
+-'  123  0  ~/labo/rubygems.org/config/routes.rb
+-'  1  0  ~/labo/rubygems.org/config/routes.rb
+-'  5  0  ~/labo/rubygems.org/app/controllers/rubygems_controller.rb
+-'  1  0  ~/labo/rubygems.org/app/controllers/rubygems_controller.rb
+-'  1  0  ~/labo/rubygems.org/config/database.yml.example
+-'  5  1  ~/labo/etc/sql.rb
+-'  1  0  ~/labo/etc/sql.rb
+-'  8  1  ~/work/mongo/Gemfile
+-'  1  0  ~/work/mongo/Gemfile
+-'  9  19  ~/work/mongo/Gemfile
+-'  10  15  ~/work/labo/recipe/recipe/Gemfile
+-'  1  0  ~/work/labo/recipe/recipe/Gemfile
+-'  8  10  ~/work/labo/recipe/recipe/Gemfile
+-'  1  0  ~/work/labo/recipe/recipe/app/controllers/application_controller.rb
+-'  21  0  /media/sf_share/env/passenger.txt
+-'  1  0  /media/sf_share/env/passenger.txt
+-'  12  0  /media/sf_share/env/passenger.txt
+-'  32  0  ~/work/labo/recipe/recipe/Gemfile
+-'  29  0  ~/work/labo/recipe/Gemfile
+-'  1  0  ~/work/labo/recipe/Gemfile
+-'  24  2  ~/work/sample/app/controllers/dmcs_controller.rb
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/.gitconfig
+	"	3	0
+
+> ~/projects/git/docs/.git/HEAD
+	"	1	0
+
+> ~/projects/study/yield.rb
+	"	7	0
+	^	7	19
+	.	7	18
+	+	8	0
+	+	1	13
+	+	3	10
+	+	7	18
+
+> ~/projects/study/run.rb
+	"	1	0
+
+> ~/projects/study/main.rb
+	"	8	0
+
+> ~/projects/study/lib/class2.rb
+	"	1	0
+
+> ~/projects/study/lib/class1.rb
+	"	1	0
+
+> /media/sf_share/work/todo_201202
+	"	4	0
+	^	23	12
+	.	23	11
+	+	8	30
+	+	4	0
+	+	3	18
+	+	3	27
+	+	18	8
+	+	15	0
+	+	18	8
+	+	16	15
+	+	18	46
+	+	23	11
+
+> ~/Dropbox/todo
+	"	1	0
+
+> ~/.vimrc
+	"	1	0
+	^	17	0
+	.	16	12
+	+	1	53
+	+	13	0
+	+	5	0
+	+	2	6
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	19	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	13	11
+	+	14	16
+	+	13	0
+	+	16	12
+
+> ~/.zshrc
+	"	23	0
+	.	23	0
+	+	23	0
+
+> ~/Dropbox/private/DEV/WORK/photoTODO.txt
+	"	34	39
+	^	34	40
+	.	35	0
+	+	10	43
+	+	17	5
+	+	11	0
+	+	10	44
+	+	36	4
+	+	17	12
+	+	13	0
+	+	32	28
+	+	36	0
+	+	17	0
+	+	21	8
+	+	18	20
+	+	20	0
+	+	28	0
+	+	7	14
+	+	24	26
+	+	28	0
+	+	28	0
+	+	27	12
+	+	30	4
+	+	19	42
+	+	23	0
+	+	26	0
+	+	31	28
+	+	32	0
+	+	35	0
+	+	35	0
+
+> ~/labo/jquery/main/13.html
+	"	35	21
+	^	35	22
+	.	35	21
+	+	29	15
+	+	30	19
+	+	31	12
+	+	31	12
+	+	36	0
+	+	31	39
+	+	34	10
+	+	33	26
+	+	31	17
+	+	30	17
+	+	33	18
+	+	32	9
+	+	33	11
+	+	34	12
+	+	35	21
+
+> ~/labo/jquery/main/14.html
+	"	34	20
+	^	34	23
+	.	34	20
+	+	37	0
+	+	37	0
+	+	31	41
+	+	33	36
+	+	33	43
+	+	32	9
+	+	33	21
+	+	34	58
+	+	36	31
+	+	36	54
+	+	35	9
+	+	36	39
+	+	34	20
+
+> ~/labo/jquery/main/15.html
+	"	36	10
+	^	36	11
+	.	36	10
+	+	30	23
+	+	37	0
+	+	37	0
+	+	31	32
+	+	37	0
+	+	31	34
+	+	32	8
+	+	33	0
+	+	32	26
+	+	37	0
+	+	34	40
+	+	35	8
+	+	36	0
+	+	35	25
+	+	36	10
+
+> ~/labo/jquery/main/16.html
+	"	34	23
+	^	34	46
+	.	34	23
+	+	35	0
+	+	34	50
+	+	32	0
+	+	34	0
+	+	33	0
+	+	34	23
+
+> ~/labo/jquery/main/17.html
+	"	34	17
+	^	34	26
+	.	34	17
+	+	30	26
+	+	34	46
+	+	31	0
+	+	34	22
+	+	31	9
+	+	34	21
+	+	32	21
+	+	33	0
+	+	32	9
+	+	33	9
+	+	34	17
+
+> ~/labo/jquery/main/11.html
+	"	46	8
+	^	46	9
+	.	46	9
+	+	31	14
+	+	32	20
+	+	33	38
+	+	34	11
+	+	35	19
+	+	36	41
+	+	37	12
+	+	47	0
+	+	30	32
+	+	31	10
+	+	32	9
+	+	33	9
+	+	34	9
+	+	35	9
+	+	36	9
+	+	37	15
+	+	45	11
+	+	43	22
+	+	45	10
+	+	41	38
+	+	44	41
+	+	47	0
+	+	46	9
+
+> ~/labo/jquery/main/12.html
+	"	37	11
+	^	40	13
+	.	37	11
+	+	41	0
+	+	34	11
+	+	31	39
+	+	34	8
+	+	33	32
+	+	33	37
+	+	34	11
+	+	41	0
+	+	32	9
+	+	33	11
+	+	34	13
+	+	35	26
+	+	37	0
+	+	36	41
+	+	37	9
+	+	42	0
+	+	39	35
+	+	40	12
+	+	34	11
+	+	37	11
+
+> ~/labo/jquery/main/10.html
+	"	32	33
+	^	31	15
+	.	32	32
+	+	28	0
+	+	36	22
+	+	39	10
+	+	40	0
+	+	35	13
+	+	38	11
+	+	35	12
+	+	38	10
+	+	34	15
+	+	38	10
+	+	33	10
+	+	34	10
+	+	35	10
+	+	36	10
+	+	37	10
+	+	38	10
+	+	31	12
+	+	30	20
+	+	31	16
+	+	32	31
+	+	11	7
+	+	34	5
+	+	32	32
+
+> ~/labo/jquery/main/9.html
+	"	35	22
+	^	35	23
+	.	35	22
+	+	39	7
+	+	39	41
+	+	39	0
+	+	39	15
+	+	39	11
+	+	39	0
+	+	39	11
+	+	39	0
+	+	39	26
+	+	40	0
+	+	40	0
+	+	40	0
+	+	40	0
+	+	40	0
+	+	40	0
+	+	40	0
+	+	39	0
+	+	39	0
+	+	38	8
+	+	34	12
+	+	34	3
+	+	38	22
+	+	35	22
+
+> ~/labo/jquery/main/t
+	"	1	28
+	^	1	29
+	.	1	28
+	+	1	28
+
+> ~/labo/jquery/main/4.html
+	"	32	38
+	^	32	39
+	.	32	38
+	+	30	13
+	+	23	24
+	+	24	82
+	+	33	0
+	+	32	35
+	+	31	0
+	+	32	38
+
+> ~/labo/jquery/main/3.html
+	"	31	33
+	^	31	40
+	.	31	27
+	+	7	0
+	+	8	11
+	+	12	0
+	+	8	7
+	+	12	8
+	+	9	14
+	+	11	4
+	+	10	21
+	+	32	0
+	+	31	31
+	+	9	8
+	+	31	19
+	+	29	28
+	+	30	0
+	+	31	27
+
+> ~/labo/jquery/main/2.html
+	"	30	44
+	^	30	45
+	.	30	45
+	+	31	0
+	+	22	7
+	+	31	6
+	+	22	0
+	+	31	6
+	+	26	21
+	+	29	10
+	+	26	21
+	+	27	37
+	+	28	27
+	+	30	45
+
+> ~/labo/jquery/main/1.html
+	"	38	17
+	^	38	18
+	.	38	17
+	+	1	5
+	+	42	2
+	+	3	5
+	+	6	13
+	+	6	61
+	+	6	0
+	+	8	0
+	+	9	3
+	+	9	0
+	+	9	1
+	+	6	5
+	+	6	54
+	+	6	0
+	+	3	1
+	+	6	3
+	+	6	1
+	+	6	58
+	+	1	13
+	+	2	14
+	+	6	0
+	+	7	0
+	+	8	2
+	+	4	29
+	+	5	22
+	+	7	88
+	+	7	0
+	+	7	87
+	+	9	2
+	+	41	0
+	+	42	2
+	+	9	25
+	+	19	12
+	+	40	10
+	+	21	34
+	+	39	0
+	+	22	7
+	+	21	32
+	+	39	6
+	+	21	34
+	+	27	0
+	+	39	9
+	+	21	7
+	+	20	7
+	+	21	7
+	+	27	8
+	+	22	7
+	+	27	35
+	+	23	24
+	+	7	10
+	+	42	2
+	+	27	45
+	+	9	0
+	+	3	6
+	+	10	19
+	+	11	29
+	+	12	0
+	+	11	60
+	+	11	59
+	+	15	14
+	+	14	0
+	+	13	12
+	+	14	12
+	+	15	12
+	+	14	27
+	+	15	27
+	+	16	50
+	+	17	11
+	+	18	22
+	+	27	12
+	+	24	10
+	+	24	10
+	+	27	35
+	+	25	9
+	+	27	15
+	+	26	11
+	+	28	14
+	+	29	16
+	+	27	9
+	+	29	19
+	+	34	0
+	+	35	23
+	+	29	8
+	+	34	20
+	+	30	0
+	+	34	15
+	+	31	9
+	+	35	15
+	+	32	0
+	+	33	9
+	+	35	17
+	+	34	12
+	+	34	15
+	+	35	9
+	+	36	15
+	+	38	17
+	+	36	16
+	+	37	42
+	+	38	17
+	m	3	6
+	n	3	6
+
+> ~/work/hinagiku/.rvmrc
+	"	1	0
+
+> ~/labo/rails/rails3.1.3/hinagiku/Gemfile
+	"	36	0
+
+> ~/labo/rails/rails3.1.3/.rvmrc
+	"	1	22
+	^	1	23
+	.	1	22
+	+	2	0
+	+	1	22
+
+> ~/work/hinagiku/Gemfile
+	"	1	0
+	^	7	13
+	.	7	12
+	+	33	0
+	+	34	0
+	+	35	0
+	+	22	0
+	+	18	0
+	+	35	0
+	+	34	0
+	+	35	0
+	+	67	0
+	+	35	2
+	+	1	14
+	+	35	0
+	+	66	19
+	+	39	0
+	+	38	0
+	+	62	0
+	+	66	0
+	+	51	17
+	+	63	18
+	+	64	24
+	+	9	16
+	+	7	12
+
+> ~/labo/rails/hinagiku31/Gemfile
+	"	1	0
+	.	1	0
+	+	1	0
+	+	1	28
+	+	1	0
+
+> ~/labo/rubygems.org/Gemfile
+	"	5	13
+
+> ~/labo/rubygems.org/config/database.yml
+	"	21	3
+	^	2	18
+	.	21	0
+	+	2	17
+	+	9	0
+	+	10	0
+	+	20	0
+	+	21	0
+
+> ~/labo/rubygems.org/config/routes.rb
+	"	123	0
+
+> ~/labo/rubygems.org/app/controllers/rubygems_controller.rb
+	"	5	0
+
+> ~/labo/rubygems.org/config/database.yml.example
+	"	1	0
+
+> ~/labo/etc/sql.rb
+	"	5	1
+
+> ~/work/mongo/Gemfile
+	"	8	1
+	^	8	1
+	.	8	0
+	+	3	18
+	+	7	0
+	+	10	0
+	+	8	20
+	+	9	15
+	+	9	19
+	+	8	0
+
+> ~/work/labo/recipe/recipe/Gemfile
+	"	10	15
+	^	10	17
+	.	10	12
+	+	8	10
+	+	10	12
+
+> ~/work/labo/recipe/recipe/config/routes.rb
+	"	2	20
+	^	2	21
+	.	2	20
+	+	18	2
+	+	19	2
+	+	20	2
+	+	21	2
+	+	22	2
+	+	18	0
+	+	2	20
+
+> ~/work/labo/recipe/recipe/app/controllers/projects_controller.rb
+	"	3	4
+	^	3	5
+	.	3	4
+	+	3	4
+
+> ~/work/mongo/.rvmrc
+	"	1	16
+	^	1	17
+	.	1	16
+	+	1	16
+
+> ~/work/labo/recipe/recipe/app/assets/javascripts/projects.js.coffee
+	"	8	0
+	^	10	1
+	.	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+
+> ~/work/labo/recipe/recipe/app/views/projects/index.html.erb
+	"	3	39
+	^	3	65
+	.	4	0
+	+	3	65
+	+	4	0
+
+> ~/work/labo/recipe/recipe/public/.htaccess
+	"	1	19
+	^	1	20
+	.	1	19
+	+	1	19
+
+> ~/work/labo/recipe/recipe/.htaccess
+	"	1	13
+	^	1	14
+	.	1	14
+	+	1	14
+
+> ~/work/labo/recipe/recipe/public/test.txt
+	"	1	11
+	^	1	12
+	.	1	12
+	+	1	12
+
+> ~/work/labo/recipe/recipe/app/controllers/application_controller.rb
+	"	1	0
+
+> /media/sf_share/env/passenger.txt
+	"	21	0
+	^	21	0
+	.	20	17
+	+	11	14
+	+	20	17
+
+> ~/work/labo/recipe/Gemfile
+	"	29	0
+
+> ~/work/sample/app/controllers/dmcs_controller.rb
+	"	24	2
+
+> ~/.Xmodmap
+	"	1	0
+	^	1	0
+	.	1	10
+	+	1	10
+
+> ~/work/hinagiku/.Xmodmap
+	"	1	0
+
+> ~/work/hinagiku/app/controllers/tasks_controller.rb
+	"	47	0
+	.	58	0
+	+	19	10
+	+	19	0
+	+	37	41
+	+	49	0
+	+	58	0
+
+> ~/work/dmc/admin/app/controllers/dmc_user_controller.rb
+	"	1	0
+	^	1	4
+	.	1	0
+	+	1	0
+
+> /media/sf_share/zshrcサンプル.txt
+	"	29	0
+	^	27	1
+	.	6	0
+	+	6	0
+
+> ~/.rvm/src/ruby-1.9.2-p290/pack.c
+	"	1975	8
+
+> ~/.rvm/src/ruby-1.8.7-p72/pack.c
+	"	1828	0
+
+> ~/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/kconv.rb
+	"	65	0
+
+> ~/.rvm/rubies/ruby-1.8.7-p72/lib/ruby/1.8/resolv.rb
+	"	1376	29
+
+> ~/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/resolv.rb
+	"	1437	21
+	^	1445	13
+	.	1445	0
+	+	1445	0
+
+> ~/.rvm/rubies/ruby-1.8.7-p72/lib/ruby/1.8/base64.rb
+	"	56	9
+
+> ~/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/base64.rb
+	"	34	0
+
+> ~/.rvm/rubies/diff
+	"	1	0
+
+> ~/work/labo/test_install/mediagate/Gemfile
+	"	11	5
+	^	11	6
+	.	11	10
+	+	9	21
+	+	10	0
+	+	11	10
+
+> ~/work/labo/test_install/mediagate/config/boot.rb
+	"	1	0
+
+> ~/work/labo/test_install/Gemfile
+	"	9	21
+	^	9	22
+	.	9	21
+	+	3	18
+	+	7	0
+	+	9	0
+	+	11	0
+	+	9	21
+
+> ~/Dropbox/private/DEV/src/MogileFS-Server-2.43/lib/MogileFS/Worker/Query.pm
+	"	227	8
+
+> ~/Dropbox/private/DEV/src/MogileFS-Server-2.43/lib/MogileFS/Store/MySQL.pm
+	"	327	15
+
+> ~/Dropbox/private/DEV/src/MogileFS-Server-2.43/lib/MogileFS/Store.pm
+	"	1363	8
+
+> ~/Dropbox/private/DEV/src/MogileFS-Client-1.13/lib/MogileFS/Client.pm
+	"	410	9
+
+> ~/work/labo/wdbpress61_blog/spec/models/article_spec.rb
+	"	7	23
+	^	7	24
+	.	7	23
+	+	5	48
+	+	5	10
+	+	5	48
+	+	7	23
+
+> ~/work/labo/wdbpress61_blog/Gemfile
+	"	26	0
+	^	33	1
+	.	33	18
+	+	32	17
+	+	32	22
+	+	33	26
+	+	32	18
+	+	4	17
+	+	19	0
+	+	31	0
+	+	4	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	19	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	32	12
+	+	33	18
+
+> ~/work/labo/wdbpress61_blog/app/views/articles/index.html.erb
+	"	1	0
+	.	1	0
+	+	1	0
+	+	6	0
+	+	6	34
+	+	6	0
+	+	6	23
+	+	6	32
+	+	6	6
+	+	6	0
+	+	2	0
+	+	3	24
+	+	4	11
+	+	2	37
+	+	5	10
+	+	2	32
+	+	5	8
+	+	3	10
+	+	4	11
+	+	3	23
+	+	4	23
+	+	1	66
+	+	1	26
+	+	1	31
+	+	1	1
+	+	1	54
+	+	1	0
+	+	1	52
+	+	1	20
+	+	1	53
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	1
+	+	1	2
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	55
+	+	1	34
+	+	1	1
+	+	1	16
+	+	1	16
+	+	1	57
+	+	1	0
+	+	1	0
+
+> ~/work/labo/wdbpress61_blog/app/controllers/articles_controller.rb
+	"	3	26
+	^	10	12
+	.	10	11
+	+	4	0
+	+	2	8
+	+	7	11
+	+	2	10
+	+	6	0
+	+	4	0
+	+	3	26
+	+	10	11
+
+> ~/work/labo/wdbpress61_blog/config/routes.rb
+	"	2	5
+	^	2	6
+	.	2	5
+	+	3	0
+	+	4	0
+	+	3	0
+	+	2	5
+
+> ~/Desktop/test.html
+	"	7	0
+	^	5	115
+	.	4	0
+	+	5	116
+	+	4	74
+	+	5	14
+	+	5	114
+	+	4	0
+
+> ~/work/labo/wdbpress61_blog/app/controllers/a:q
+	"	1	0
+
+> ~/work/labo/wdbpress61_blog/db/seeds.rb
+	"	1	25
+	^	1	26
+	.	1	25
+	+	1	9
+	+	8	7
+	+	7	17
+	+	6	0
+	+	5	0
+	+	4	0
+	+	3	0
+	+	4	15
+	+	5	15
+	+	6	15
+	+	7	15
+	+	17	0
+	+	17	8
+	+	17	15
+	+	17	0
+	+	17	0
+	+	17	0
+	+	15	0
+	+	10	19
+	+	11	0
+	+	6	15
+	+	7	15
+	+	12	14
+	+	13	48
+	+	1	25
+	e	12	0
+
+> ~/work/hinagiku_bk/db/test.sqlite3
+	"	1	0
+
+> ~/work/hinagiku_bk/db/seeds.rb
+	"	1	0
+
+> ~/work/labo/hinagiku/db/seeds.rb
+	"	4	0
+
+> ~/work/labo/wdbpress61_blog/fGe
+	"	1	0
+
+> ~/work/labo/wdbpress61_blog/app/controllers/application_controller.rb
+	"	1	0
+
+> ~/work/labo/wdbpress61_blog/app/assets/stylesheets/articles.css.scss
+	"	2	57
+
+> ~/work/labo/wdbpress61_blog/app/views/layouts/application.html.erb
+	"	5	23
+
+> ~/work/labo/wdbpress61_blog/app/assets/stylesheets/application.css
+	"	1	0
+
+> ~/work/labo/wdbpress61_blog/config/application.rb
+	"	12	46
+
+> ~/work/labo/wdbpress61_blog/app/models/article.rb
+	"	2	18
+	^	2	30
+	.	2	18
+	+	2	18
+
+> ~/work/labo/wdbpress61_blog/db/development.sqlite3
+	"	2	0
+
+> ~/work/labo/hinagiku/Gemfile
+	"	30	2
+	.	3	18
+	+	3	18
+
+> ~/work/labo/wdbpress61_blog/config/database.yml
+	"	8	30
+
+> ~/work/labo/wdbpress61_blog/db/migrate/20111001174356_create_articles.rb
+	"	1	0
+	^	2	118
+	.	2	0
+	+	2	117
+	+	2	0
+
+> ~/work/hinagiku/Rakefile
+	"	5	1
+
+> ~/work/labo/wdbpress61_blog/Rakefile
+	"	6	12
+	^	6	13
+	.	6	12
+	+	6	12
+
+> ~/work/labo/.rvmrc
+	"	1	0
+	^	1	19
+	.	1	17
+	+	1	17
+
+> ~/work/hinagiku/db/migrate/20110321080413_create_tasks.rb
+	"	1	0
+
+> ~/work/hinagiku/db/development.sqlite3
+	"	1	0
+
+> ~/work/labo/wdbpress61_blog/db/migrate/20111001174102_create_articles.rb
+	"	2	11
+
+> ~/work/labo/wdbpress61_blog/db/migrate/20110930173300_create_articles.rb
+	"	2	12
+	^	2	13
+	.	2	12
+	+	2	12
